@@ -11,7 +11,7 @@ By selecting a different range, you change what historical data will be included
 <figure><img src="../.gitbook/assets/Screen Shot 2023-01-31 at 11.32.13.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you want the charts to show a different time frame, select the filtering button at the top right. That changes the visualization without impacting the dat&#x20;
+If you want the charts to show a different time frame, select the filtering button at the top right. That changes the visualization without impacting the data&#x20;
 {% endhint %}
 
 ### Channels
