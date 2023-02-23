@@ -29,5 +29,5 @@ Do you have role-gated channels? Give the bot permission to access them. Go to y
 Here you can see your integrations. Right now you can only integrate the bot in one community. **Disconnect** the bot, if you want it to stop fetching data.
 
 {% hint style="info" %}
-Want to delete all your data from our database? Please send an email to info@togethercrew.com.
+Want to delete all your data from our database? Please reach out to us via our [support channels](../overview/support.md).
 {% endhint %}

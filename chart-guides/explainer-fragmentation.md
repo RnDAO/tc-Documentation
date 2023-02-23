@@ -1,3 +1,7 @@
+---
+description: work-in-progress
+---
+
 # 🍕 Explainer: Fragmentation
 
 Cohesion is a way to measure where your community is lying on the continuum between “we are a single unit” (low cohesion; score of 0) to “we are a group of several small niche sub-communities” (high cohesion; score of 200).&#x20;

@@ -1,10 +1,10 @@
-# Roadmap
+# 🚀 Roadmap
 
 Upcoming features
 
-* Insights into active community members (February 2023)
-* Insights into inactive community members (March 2023)
-* Small world network (April 2023)
+* Insights into active community members&#x20;
+* Insights into inactive community members
+* Small world network
 
 Upcoming data pipelines
 

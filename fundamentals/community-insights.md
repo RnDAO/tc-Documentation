@@ -21,7 +21,7 @@ Now that you know when your members are active, you can
 * Diagnose what type of announcement get members talking.&#x20;
 
 {% hint style="info" %}
-Read [explainer-community-activity-level.md](../product-guides/explainer-community-activity-level.md "mention") to dig deeper into this feature.
+Read [explainer-community-activity-level.md](../chart-guides/explainer-community-activity-level.md "mention") to dig deeper into this feature.
 {% endhint %}
 
 ## What's the next feature?

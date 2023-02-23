@@ -1,4 +1,4 @@
-# Support
+# 🚁 Support
 
 If you need help setting up your dashboard or want someone to talk your through the metrics, reach out to us using Telegram or Discord (we're part of RnDAO).
 

@@ -1,24 +1,12 @@
 # 👋 Welcome to TogetherCrew
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
 ## Overview
 
-rewrite this
+A new type of organization needs a new types of data analytics. TogetherCrew empowers community leaders with deep, actionable insights.&#x20;
 
-Here are a couple of example overviews from products with really great docs: This will be changed. \*\*All the screenshots will be replaced once the design of the app is fixed. \*\* Denise will check if the figures are ok.
+Healthy communities are at the heart of Web3 Some communities fall apart under pressure, others come stronger together. We exist to help you become the latter and ensure your members and stakeholders thrive.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
 ## Quick links
 

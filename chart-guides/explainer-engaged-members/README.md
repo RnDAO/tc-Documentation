@@ -1,3 +1,7 @@
+---
+description: work-in-progress
+---
+
 # 👥 Explainer: Member types
 
 ## Our Active Member Types: &#x20;
