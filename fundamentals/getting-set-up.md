@@ -32,7 +32,7 @@ Let's start with the fun part: Working with data. In this step you can select yo
 
 _Why one week?_ You can select a longer time frame, but you might have to wait longer for the dashboard to populate with your data. More data, more work. Also, the activity heatmap shows the frequency of interaction for the most recent week. Another reason to accept the default time frame when first setting up your account.&#x20;
 
-_Why all channels?_ Using data from all channels is an inclusive approach. Most members are active in a sub-set of channels. By excluding some channels from the geko, you'll inadvertently exclude some members.&#x20;
+_Why all channels?_ Using data from all channels is an inclusive approach. Most members are active in a sub-set of channels. By excluding some channels from the get-go, you'll inadvertently exclude some members.&#x20;
 
 
 

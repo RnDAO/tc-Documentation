@@ -6,10 +6,9 @@
 
 ## Overview
 
-I'm going to rewreite all of this....
+rewrite this
 
-Here are a couple of example overviews from products with really great docs: This will be changed. **All the screenshots will be replaced once the design of the app is fixed. ** Denise will check if the figures are ok. 
-
+Here are a couple of example overviews from products with really great docs: This will be changed. \*\*All the screenshots will be replaced once the design of the app is fixed. \*\* Denise will check if the figures are ok.
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
