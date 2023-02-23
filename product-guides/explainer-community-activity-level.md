@@ -2,9 +2,9 @@
 
 ## Explainer: What do I see?
 
-The chart shows you for every day in the week and every hour how many interactions happened in your Discord community. The darker the shaded cell the more interactions happened on that day at that time. You can quickly see patterns of light and dark. When it's light people are sleeping and away from your Discord community. When it's dark, members are present and are talking with each other.&#x20;
+The chart shows you for every day in the week and every hour how many interactions happened in your Discord community. The darker the shaded cell the more interactions happened on that day at that time. You can quickly see patterns of light and dark. When it's light people are sleeping or away from your Discord community. When it's dark, members are present and are talking with each other.&#x20;
 
-Remember that an interaction and a post aren't the same thing. Every message and reaction on Discord is a post, but not every post is an interaction. Interactions are the building blogs in a conversation between members: One member talking, reacting or replying to another member.&#x20;
+Remember that an interaction and a post aren't the same thing. Every message and reaction on Discord is a post, but not every post is an interaction. Interactions are the building blocks in a conversation between members: One member talking, reacting or replying to another member.&#x20;
 
 ## Diagnose your Community
 
@@ -13,7 +13,7 @@ Use the heatmap, the interaction chart, to figure out when members are checking 
 Use the heatmap to figure out
 
 * What events is your community attracted to?
-* What is the daily rhythm of your community? Do you have early raiser or night owls?&#x20;
+* What is the daily rhythm of your community? Do you have early risers or night owls?&#x20;
 * Are certain times and days more popular for your community?
 * If you are product/service DAO, check if there is sufficient time for deep work (low level of interactions between members)
 
@@ -29,7 +29,7 @@ The activity chart shows when people are talking with each other in a public cha
 
 ## What can I do?
 
-* Post announcement not a time that is convenient to you, but when your community is also active on Discord.&#x20;
+* Post announcements not at a time that is convenient to you, but when your community is also active on Discord.&#x20;
 * Schedule events when members are also on Discord (of course, after checking that they can also be active on calls during that time)
 
 
