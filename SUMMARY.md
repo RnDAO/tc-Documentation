@@ -20,7 +20,7 @@
 ## 📊 Chart Guides
 
 * [👟 Explainer: Community Activity Level](chart-guides/explainer-community-activity-level.md)
-* [🍕 Explainer: Fragmentation](chart-guides/explainer-fragmentation.md)
 * [👥 Explainer: Member types](chart-guides/explainer-engaged-members/README.md)
   * [Onboarding new members](chart-guides/explainer-engaged-members/onboarding-new-members.md)
   * [Member Churn](chart-guides/explainer-engaged-members/explainer-disengaged-members.md)
+* [🍕 Explainer: Fragmentation](chart-guides/explainer-fragmentation.md)
