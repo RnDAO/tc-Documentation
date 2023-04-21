@@ -30,17 +30,35 @@ If you don't see your Discord community, you do not have the necessary permissio
 
 <details>
 
-<summary>Step 3: Decide what data to use </summary>
+<summary>Step 3: Decide the time period and channels to use </summary>
 
 Let's start with the fun part: Working with data. In this step you can select your time period and what channels to analyze. We suggest as a default time period one week and to use all channels.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.17.png>)![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.37.png>)
 
+By default the bot does not have access to gated channels. Gated channels have a little lock symbol at the top right of the hashtag. To include these channels into your health metrics you need to do a couple of steps inside of Discord:
+
+* Navigate to the channel you want to import on Discord&#x20;
+
+<!---->
+
+* Go to the settings for that specific channel (select the wheel on the right of the channel name)&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2023-04-21 at 23.24.34.png>)
+
+* Select Permissions (left sidebar), and then in the middle of the screen check Advanced permissions&#x20;
+
+<img src="../.gitbook/assets/Screen Shot 2023-04-21 at 23.46.25.png" alt="" data-size="original">
+
+* Select the plus sign to the right of Roles/Members and under members select TogetherCrew bot&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2023-04-21 at 23.50.20.png>)
+
+* With the TogetherCrew Bot selected, under Advanced Permissions, make sure that \[View channel] and \[Read message history] are marked as \[✓]&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2023-04-21 at 23.23.57.png>)
 
 
-_Why one week?_ You can select a longer time frame, but you might have to wait longer for the dashboard to populate with your data. More data, more work. Also, the activity heatmap shows the frequency of interaction for the most recent week. Another reason to accept the default time frame when first setting up your account.&#x20;
-
-_Why all channels?_ Using data from all channels is an inclusive approach. Most members are active in a sub-set of channels. By excluding some channels from the get-go, you'll inadvertently exclude some members.&#x20;
 
 </details>
 

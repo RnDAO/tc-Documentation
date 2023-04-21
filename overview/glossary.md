@@ -6,7 +6,7 @@ _Posting:_ Every message on Discord is a post. But not every post is counted as 
 
 ## Member types
 
-**Active** members __ are members who interact at least once during a selected time frame with at least one other member. This member type is further segmented into:
+**Active** members are members who interact at least once during a selected time frame with at least one other member. This member type is further segmented into:
 
 * **Consistently active** members  are your regulars who keep having conversations with others, continuously sustaining the relationships. You can adjust the time period over which these members are counted. The default setting is interacting at least once per week for at least 3 out of 4 weeks.&#x20;
 * **Newly active** members are members who joined and start building relationships with others within the past 7 days.&#x20;
@@ -15,7 +15,7 @@ _Posting:_ Every message on Discord is a post. But not every post is counted as 
 
 **Became disengaged** are those active members you lost as they have not interacted with anyone during a specified time period (default value is 2 weeks after last activity). To help you better understand what type of member you are losing, we show the previous member type a disengaged member was part of (newly active, consistently active, vital member)
 
-**Joined** members **** are members who joined in the last 7 days.
+**Joined** members are members who joined in the last 7 days.
 
 **Returned** members are a special inactive-then-active group. These are community members who became disengaged but decided to come back and re-engage with the community.
 
@@ -34,9 +34,9 @@ _Posting:_ Every message on Discord is a post. But not every post is counted as 
 \
 
 
-****
 
-****
+
+
 
 
 
