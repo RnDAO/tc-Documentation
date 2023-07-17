@@ -21,10 +21,12 @@ _Posting:_ Every message on Discord is a post. But not every post is counted as 
 
 ## Health Metrics
 
-**Spread of Influence** (available soon) shows how much conversations depend on one (or very few) key members. Influence exists in a continuum between:
+**Decentralization** (available soon) shows how much conversations depend on one (or very few) key members. Influence exists in a continuum between:
 
 * Too spread: everyone regularly talks with everyone . Members manage too many relationships and are involved in too many divergent topics. Everyone’s voice is heard and included, but the community can struggle to define its direction and make progress.
 * Too concentrated: a few core people engage with everyone, but other members don't talk to each other. The community is dependent on these key influencers, and its vision is only shaped by their opinions. This allows for speed but at the cost of buy-in and hence resilience
+
+_Learn more about this metric_ [_here_](https://banklessdao.substack.com/p/measuring-decision-making-in-virtual)
 
 **Fragmentation** (available soon) shows how much members are divided into informal cliques as a continuum between:
 

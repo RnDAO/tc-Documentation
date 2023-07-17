@@ -1,15 +1,18 @@
 # 🚀 Roadmap
 
-Upcoming features
+Upcoming features (Q3 2023)
 
-* Insights into active community members&#x20;
-* Insights into inactive community members
-* Small world network
+* Decentralization&#x20;
+* Fragmentation
+* Social network graph
+* Sharing dashboard
 
 Upcoming data pipelines
 
-* Telegram
+* Twitter
+* Discourse&#x20;
 * Snapshot
+* Telegram
 
 
 

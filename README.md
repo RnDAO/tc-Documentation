@@ -4,7 +4,7 @@
 
 A new type of organization needs a new types of data analytics. TogetherCrew empowers community leaders with deep, actionable insights.&#x20;
 
-Healthy communities are at the heart of Web3 Some communities fall apart under pressure, others come stronger together. We exist to help you become the latter and ensure your members and stakeholders thrive.
+Healthy communities are at the heart of Web3. Some communities fall apart under pressure, others come stronger together. We exist to help you come and stay together, no matter what the universe throws at you.
 
 
 
@@ -30,6 +30,6 @@ We've put together some helpful guides for you to get setup with our product qui
 [settings.md](fundamentals/settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/community-insights.md" %}
-[community-insights.md](fundamentals/community-insights.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
