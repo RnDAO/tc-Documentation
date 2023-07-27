@@ -4,6 +4,8 @@
 
 The chart shows you for every day in the week and every hour how many messages have been sent in your Discord community. The darker the shaded cell the more activity happened on that day at that time. You can quickly see patterns of light and dark: When it's light people are sleeping or away from your Discord community. When it's dark, members are present and are posting.
 
+<figure><img src="../.gitbook/assets/Screen Shot 2023-01-28 at 08.53.51.png" alt=""><figcaption></figcaption></figure>
+
 ## Diagnose your Community
 
 Use the activity chart to figure out when members are sharing content, reacting and replying. If your community would meet in a physical place, like a cafe, sports field, or playground, the dark shaded area tell when the place is jam-packed.

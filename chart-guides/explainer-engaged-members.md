@@ -18,6 +18,10 @@ These are separated into active member and inactive (disengaged) members. For ea
 * Does the community consistently provide value to its members (_active members chart, disengaged members chart_)
 * Does your community provide ad-hoc value to its members (_returned members char)_
 
+
+
+<figure><img src="../.gitbook/assets/active members.png" alt=""><figcaption></figcaption></figure>
+
 \
 What can you learn from the Community Insight page
 --------------------------------------------------
