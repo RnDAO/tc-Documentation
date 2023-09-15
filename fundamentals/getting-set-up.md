@@ -74,7 +74,7 @@ If you can't see all your channels, go to Discord user management and give the b
 
 Go to Community Insights to see how healthy your community is.&#x20;
 
-Read the [Explainer](../chart-guides/explainer-community-activity-level.md) to understand how the charts help you grow and sustain your community.&#x20;
+Read the [Explainer](../how-to/explainer-community-activity-level.md) to understand how the charts help you grow and sustain your community.&#x20;
 
 <img src="../.gitbook/assets/Screen Shot 2023-01-28 at 08.53.51.png" alt="" data-size="original">
 

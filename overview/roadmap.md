@@ -1,18 +1,15 @@
 # 🚀 Roadmap
 
-Upcoming features (Q3 2023)
+Upcoming features (Q4 2023)
 
-* Decentralization&#x20;
-* Fragmentation
-* Social network graph
-* Sharing dashboard
+* Sharing the dashboard with other members
 
 Upcoming data pipelines
 
-* Twitter
-* Discourse&#x20;
-* Snapshot
-* Telegram
+* Twitter (in progress)
+* Discourse (in progress)
+* Snapshot (in progress)
+* Telegram (planned)
 
 
 

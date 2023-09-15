@@ -9,7 +9,7 @@ The community insights page gives you information about your active and inactive
 The page tells you how active your community is by looking at activity from different stages of the community member experience (onboarding, member, offboarding). For every aspect (e.g., onboarding), you'll see&#x20;
 
 * A panel with the most recent numbers (_today's statistics_)
-* A table with information about members and their corresponding activity status
+* A table with information about members and their corresponding activity status. You can filter the table and export it.
 * A line chart showing you the evolution of the member category
 
 These are separated into active member and inactive (disengaged) members. For each subpage, you see several charts helping you to understand

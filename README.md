@@ -29,7 +29,3 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="fundamentals/settings.md" %}
 [settings.md](fundamentals/settings.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
