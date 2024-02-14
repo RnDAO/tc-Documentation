@@ -1,15 +1,17 @@
 # 🚀 Roadmap
 
-Upcoming features (Q4 2023)
+Upcoming features (Q4 2024)
 
 * Sharing the dashboard with other members
 
 Upcoming data pipelines
 
-* Twitter (in progress)
+* Twitter (paused)
+* Telegram (in progress)
 * Discourse (in progress)
 * Snapshot (in progress)
-* Telegram (planned)
+
+
 
 
 

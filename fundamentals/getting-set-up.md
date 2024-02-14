@@ -36,9 +36,7 @@ Let's start with the fun part: Working with data. In this step you can select yo
 
 ![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.17.png>)![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.37.png>)
 
-By default the bot does not have access to gated channels. Gated channels are those channels in Discord for which members need a specific Discord tag. They have a little lock symbol at the top right of the hashtag. To include these channels into your health metrics you need to do a couple of steps in of Discord.&#x20;
-
-The following instructions is for only one channel. But if you have grouped your channels, you can also do these modifications for the channel group.
+By default the bot does not have access to gated channels. Gated channels are those channels in Discord for which members need a specific Discord tag. They have a little lock symbol at the top right of the hashtag. To include these channels into your analytics you need to give TogetherCrew read access in your Discord.
 
 * Navigate to the channel you want to import on Discord&#x20;
 
@@ -46,15 +44,15 @@ The following instructions is for only one channel. But if you have grouped your
 
 * Go to the settings for that specific channel (select the wheel on the right of the channel name)&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2023-04-21 at 23.24.34.png>)
+<!---->
 
 * Select Permissions (left sidebar), and then in the middle of the screen check Advanced permissions&#x20;
 
-<img src="../.gitbook/assets/Screen Shot 2023-04-21 at 23.46.25.png" alt="" data-size="original">
+<!---->
 
 * Select the plus sign to the right of Roles/Members and under members select TogetherCrew bot&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2023-04-21 at 23.50.20.png>)
+<!---->
 
 * With the TogetherCrew Bot selected, under Advanced Permissions, make sure that \[View channel] and \[Read message history] are marked as \[✓]&#x20;
 
@@ -74,7 +72,7 @@ If you can't see all your channels, go to Discord user management and give the b
 
 Go to Community Insights to see how healthy your community is.&#x20;
 
-Read the [Explainer](../how-to/explainer-community-activity-level.md) to understand how the charts help you grow and sustain your community.&#x20;
+Read the [Explainer](../features/explainer-community-activity-level.md) to understand how the charts help you grow and sustain your community.&#x20;
 
 <img src="../.gitbook/assets/Screen Shot 2023-01-28 at 08.53.51.png" alt="" data-size="original">
 

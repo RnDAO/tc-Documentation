@@ -1,4 +1,4 @@
-# 📝 Settings
+# 📝 Community Settings
 
 The setting page lets you change what data should be extracted from your Discord. This does not change the settings of the charts. You can adapt three settings:
 
@@ -25,7 +25,7 @@ Under **change your imported channels** you can select or deselect the channels 
 ![](<../.gitbook/assets/Screen Shot 2023-01-31 at 11.36.57.png>)
 
 {% hint style="info" %}
-Do you have role-gated channels? Give the bot permission to access them. Go to your server settings in Discord and add the corresponding roles to the bot. See [getting-set-up.md](getting-set-up.md "mention") for a walk-through.
+Do you have role-gated channels? Give the bot permission to access them. Go to your server settings in Discord and add the corresponding roles to the bot. See [getting-set-up.md](getting-set-up.md "mention") for a quick walk-through and [**Permission settings for Discord**](permission-settings-for-discord.md) for more detailed info.
 {% endhint %}
 
 ## Integration
