@@ -13,7 +13,7 @@
 
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up.md)
+* [🛠️ Getting set up](fundamentals/getting-set-up.md)
 * [📝 Community Settings](fundamentals/settings.md)
 * [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
 
