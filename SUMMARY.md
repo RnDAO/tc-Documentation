@@ -8,7 +8,7 @@
 * [🔬 Our Framework](overview/our-framework.md)
 * [📘 Glossary](overview/glossary.md)
 * [🚀 Roadmap](overview/roadmap.md)
-* [🚁 Support](overview/support.md)
+* [🚁 How to get help](overview/support.md)
 * [🔢 What we do with your data](overview/what-we-do-with-your-data.md)
 
 ## Fundamentals

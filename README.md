@@ -14,10 +14,6 @@ Healthy communities are at the heart of Web3. Some communities fall apart under 
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
