@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# 🛠️ Getting set up
 
 <details>
 
@@ -14,7 +14,7 @@ Head over to [https://www.togethercrew.com/login](https://app.togethercrew.com/l
 
 <details>
 
-<summary>Step 2: Integrate your community</summary>
+<summary>Step 2: Add your community</summary>
 
 On the following screen, log in to Discord using your preferred method (email or scan the QR Code), and select the community. The bot will be automatically installed on your server.&#x20;
 
@@ -46,11 +46,11 @@ By default the bot does not have access to gated channels. Gated channels are th
 
 <!---->
 
-* Select Permissions (left sidebar), and then in the middle of the screen check Advanced permissions&#x20;
+* Select **Permissions** (left sidebar), and then in the middle of the screen check **Advanced permissions**&#x20;
 
 <!---->
 
-* Select the plus sign to the right of Roles/Members and under members select TogetherCrew bot&#x20;
+* Select the plus sign to the right of Roles/Members and under **members** select TogetherCrew bot, not TogetherCrew role.
 
 <!---->
 

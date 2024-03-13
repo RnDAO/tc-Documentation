@@ -14,7 +14,7 @@ If you have different permission settings for category and server, the server se
 2. Switch to **Discord**
 3. Navigate to the channel and select the wheel on the right of the channel name to access its **settings**.
 4. Select **Permissions** (left sidebar), and then in the middle of the screen check **Advanced permissions**. You might have to scroll down a bit.
-5. Check that TogetherCrew is in the list of Roles/Members that have access to the channel. If not, select the ⊕ and add it.
+5. Check that the **bot TogetherCrew** is in the list of Roles/Members that have access to the channel. If not, select the ⊕ and add it. Make sure the TogetherCrew member (aka the bot) is added and not the role TogetherCrew.&#x20;
 6. Now, select **TogetherCrew** and scroll down the list of  Advanced Permissions. Make sure that the following are marked as \[✓]
    * **Read** access settings: Read channel and Read Message History
    * For **Write** access settings, the following is required
