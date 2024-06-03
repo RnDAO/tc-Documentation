@@ -19,8 +19,6 @@ Accounts on TogetherCrew have to be created by your community’s Discord admin.
 
 We can’t do any community analytics without data. But that does not mean that we take it all. You are in full control of what data we analyze by selecting the channels the bot has access to, and how far in the past the data is captured. When installing the bot you can see the permissions the bot has. The bot can only read message history.
 
-
-
 ## Your action
 
 You are responsible for announcing to your community that the bot has been installed in your discord server.&#x20;
@@ -39,7 +37,6 @@ When you connect the bot to your server, the bot reads the message history and s
 
 Your data is being analyzed by a computer program. TogetherCrew’s team members will not manually log into our database to read your messages.
 
-\
 
 
 ## Can I delete my data

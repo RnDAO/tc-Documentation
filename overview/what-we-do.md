@@ -1,8 +1,11 @@
 # 💡 What we do
 
-TogetherCrew is a community health tool that helps you develop a strong and resilient community.  We offer powerful science-based analytics geared towards building strong relationships between community members, and define actionable community KPIs.
+TogetherCrew is a community productivity tool that helps you develop a strong and resilient community. We offer&#x20;
+
+* powerful science-based analytics to help you be more strategic
+* automated workflows to help you be more productive
 
 Read our research: [How we measure community health](https://rndao.mirror.xyz/fsCGRlYR5rieDCVPnAnSAGL98wNWJyFbf1T\_A2r-\_6Y)
 
-We currently integrate with Discord, planning to add other community platforms and data sources.  Check out our [Roadmap](roadmap.md). &#x20;
+We are available for Discord communities. If your community is on Telegram, Discourse, or Farcaster [add your name here](https://paragraph.xyz/@togethercrew/memberships) and we will notify you when we have included these platforms. Feel free to check out our [Roadmap](roadmap.md). &#x20;
 

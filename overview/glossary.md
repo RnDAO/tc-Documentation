@@ -1,24 +1,22 @@
 # 📘 Glossary
 
-_Interaction_: Interactions are conversations between community members. Specifically every mention of someone, reply or emoji reaction is counted as an interaction. Posts without these features are "shouts in the dark", with the exception of posts within a thread. Posts within a thread are always counted as an interaction.
+_Interaction_: Interactions are conversations between community members. Specifically every mention of someone, reply or emoji reaction is counted as an interaction. Messages without these features are posts.
 
-_Posting:_ Every message on Discord is a post. But not every post is counted as an interaction.
+_Posting:_ Every message in your community is a post. But not every post is counted as an interaction.
 
-## Active and Disengaged Member types
+## Active and Inactive Member types
 
-**Active** members are members who interact at least once during a selected time frame with at least one other member.&#x20;
+**Active** members are members who post at least once during a selected time frame. The active member group has several subcategories.&#x20;
 
-* **Consistently active** members  are your regulars who keep having conversations with others, continuously sustaining the relationships. You can adjust the time period over which these members are counted. The default setting is interacting at least once per week for at least 3 out of 4 weeks.&#x20;
-* **Newly active** members are members who joined and start building relationships with others within the past 7 days.&#x20;
-* **Returned** members are a special inactive-then-active group. These are community members who became disengaged but decided to come back and re-engage with the community
-* **Still active** are new joiners who remain active after several weeks.&#x20;
-* **Vital** members are your super-connectors within your consistently active members group. On top of being consistently active, vital members are very connected and interacting with many other members. The default setting is that they have at least 5 interactions with at least 5 other members during a week, and keep up this behavior for at least 3 out of 4 consecutive weeks.
+* **Newly active:** members who joined and start posting in the past 7 days.&#x20;
+* **Still active:** new joiners who keep on posting after two weeks.&#x20;
+* **Consistently active:** regulars members who posted weekly for at least 3 out of 4 weeks.
+* **Returned:** members who used to be inactive, but who rejoined.&#x20;
+* **Vital:** This is a special consistently active member category counting how many super-connectors you have. These are members who are consistently active _and_ have conversations with others. This means we only count messages that generate a reaction (reply or emoji reactions) from others.  A member is a vital member if they have at least 5 interactions with at least 5 other members during a week, and keep up this behavior for at least 3 out of 4 consecutive weeks.
 
-**Became disengaged** are those active members you lost as they have not interacted with anyone during a specified time period (default value is 2 weeks after last activity). To help you better understand what type of member you are losing, we show the previous member type a disengaged member was part of (newly active, consistently active, vital member).
+**Became disengaged:** those active members who have not posted anything during the past 2 weeks.&#x20;
 
-A specific type of disengaged members are **dropped** members. These are new community members who had at least one interaction within 2 weeks. But since then didn't interact with anyone else for the past 7 days.
-
-**Joined** members are members who joined in the last 7 days.
+**Joined:** members who joined in the last 7 days.
 
 ## Community Health Metrics
 

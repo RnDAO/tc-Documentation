@@ -16,6 +16,7 @@
 * [🛠️ Getting set up](fundamentals/getting-set-up.md)
 * [📝 Community Settings](fundamentals/settings.md)
 * [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
+* [🕸️ Settings for Modules - in progress](fundamentals/settings-for-modules-in-progress.md)
 
 ## 📊 Features
 

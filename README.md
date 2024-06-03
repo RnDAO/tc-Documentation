@@ -2,9 +2,11 @@
 
 ## Overview
 
-A new type of organization needs a new types of data analytics. TogetherCrew empowers community leaders with deep, actionable insights.&#x20;
+TogetherCrew empowers community leaders with actionable insights, and makes it easy for you to build solutions on top of your own data.&#x20;
 
 Healthy communities are at the heart of Web3. Some communities fall apart under pressure, others come stronger together. We exist to help you come and stay together, no matter what the universe throws at you.
+
+{% embed url="https://youtu.be/uBq3tCbZ9cY" %}
 
 
 

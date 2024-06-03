@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>Step1: Create an account</summary>
+<summary>Step1: Create an personal  account</summary>
 
-Head over to [https://www.togethercrew.com/login](https://app.togethercrew.com/login/) to create an account for your community. After selecting _Try now_ and accepting our Privacy Policy and Terms of Services, you will be asked to connect your Discord community&#x20;
+Head over to [https://www.togethercrew.com](https://app.togethercrew.com/login/) to create an account for your community. After selecting **Try now** and accepting our Privacy Policy and Terms of Services, you will be asked to connect your personal Discord account.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.48.41.png>)
 
@@ -14,15 +14,33 @@ Head over to [https://www.togethercrew.com/login](https://app.togethercrew.com/l
 
 <details>
 
-<summary>Step 2: Add your community</summary>
+<summary>Step 2: Add your community by creating a community community</summary>
 
-On the following screen, log in to Discord using your preferred method (email or scan the QR Code), and select the community. The bot will be automatically installed on your server.&#x20;
+If your community has already been added to TogetherCrew, select it on the following screen and then click **continue**.&#x20;
+
+<img src="../.gitbook/assets/Screenshot 2024-04-18 at 12.42.03.png" alt="" data-size="original">
+
+
+
+If you are the first one to create an account on TogetherCrew for your community, select **+ Create**. On the following screen add a name for your community and select **Create community.**
+
+<img src="https://d16ev9qffqt5qm.cloudfront.net/?s3_key=clmhlsdfv24d8yf19yqi9iu2d/SVr2EGkbr4sJ_EDTB_g98.jpg&#x26;x=1500&#x26;y=1443&#x26;fill=9900ef&#x26;color=9900ef" alt="5 After that, click on the element." data-size="original">
+
+![6 Next, click on the element.](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/AP1a3FVXN7g5yUS-Q4lyU.jpg\&x=1301\&y=678\&fill=9900ef\&color=9900ef)
+
+Now you are ready to connect your community. Select **connect your community**.
+
+![8 Click on "Connect your community".](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/EgnMN7kkiX6neYNRI10Cl.jpg\&x=1604\&y=1089\&fill=9900ef\&color=9900ef)
+
+On the **community settings** page, select the platform you'd like to add by clicking on **+ Connect**.&#x20;
+
+![9 Click on "Connect".](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/8a1wRBjtGQAK696BQ7LnZ.jpg\&x=560\&y=950\&fill=9900ef\&color=9900ef)
+
+Follow the onboarding flow from your select platform.&#x20;
+
+* Discord: Select the server name -> Continue -> Authorize. If you have 2FA enabled, add the code.&#x20;
 
 If you don't see your Discord community, you do not have the necessary permission to install the bot. Please contact your Discord server admin.
-
-
-
-![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.49.31.png>)![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.49.40.png>)
 
 
 
@@ -30,11 +48,15 @@ If you don't see your Discord community, you do not have the necessary permissio
 
 <details>
 
-<summary>Step 3: Decide the time period and channels to use </summary>
+<summary>Step 3: Finish onboarding by fine-tuning TogetherCrew's access to your community</summary>
 
-Let's start with the fun part: Working with data. In this step you can select your time period and what channels to analyze. We suggest as a default time period one month.&#x20;
+**Date Period**
+
+The last step is to decide the access TogetherCrew should have in **Community Settings**. For Discord community we can analyze historical data. You have to decide how far back we should go. We suggest as a default time period _one month_.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.17.png>)![](<../.gitbook/assets/Screen Shot 2023-02-23 at 16.50.37.png>)
+
+**Channel access**
 
 By default the bot does not have access to gated channels. Gated channels are those channels in Discord for which members need a specific Discord tag. They have a little lock symbol at the top right of the hashtag. To include these channels into your analytics you need to give TogetherCrew read access in your Discord.
 
@@ -50,7 +72,7 @@ By default the bot does not have access to gated channels. Gated channels are th
 
 <!---->
 
-* Select the plus sign to the right of Roles/Members and under **members** select TogetherCrew bot, not TogetherCrew role.
+* Select the plus sign to the right of Roles/Members and under **members** select TogetherCrew bot.&#x20;
 
 <!---->
 
@@ -63,7 +85,7 @@ By default the bot does not have access to gated channels. Gated channels are th
 </details>
 
 {% hint style="warning" %}
-If you can't see all your channels, go to Discord user management and give the bot access to these channels.&#x20;
+If you can't see all your channels, go to Discord user management and give the bot access to these channels. Read [Permission settings for Discord](permission-settings-for-discord.md) for step-by-step instructions.&#x20;
 {% endhint %}
 
 <details>
@@ -77,3 +99,8 @@ Read the [Explainer](../features/explainer-community-activity-level.md) to under
 <img src="../.gitbook/assets/Screen Shot 2023-01-28 at 08.53.51.png" alt="" data-size="original">
 
 </details>
+
+{% embed url="https://app.supademo.com/demo/clv55irei18wos1g9ya5t4698" %}
+
+
+
