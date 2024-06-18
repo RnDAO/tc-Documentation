@@ -1,4 +1,4 @@
-# 🕸️ Settings for Modules - in progress
+# 🕸️ Connecting Platforms - in progress
 
 You can toggle on different modules that work on top of your data TogetherCrew is ingesting. For each module you have a choice of different platforms. Remember
 
@@ -48,7 +48,7 @@ _July 2024_
 
 <details>
 
-<summary>Gdrive</summary>
+<summary>Google Drive</summary>
 
 Connect a Google Account
 
