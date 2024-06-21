@@ -1,4 +1,4 @@
-# 🕸️ Connecting Platforms - in progress
+# 🕸️ Connecting Platforms
 
 You can toggle on different modules that work on top of your data TogetherCrew is ingesting. For each module you have a choice of different platforms. Remember
 
@@ -115,7 +115,9 @@ Disconnect a Notion Account
 
 * Select the MediaWiki Profile
 * Select **+Connect**
-* Add the MediaWiki URL
+* Add the MediaWiki URL **without** a blacklash at the end.&#x20;
+  * ✅ [https://www.mediawiki.org/wiki/MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+  * ❌[https://www.mediawiki.org/wiki/MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)/
 
 </details>
 

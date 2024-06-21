@@ -16,8 +16,8 @@
 * [🛠️ Getting set up](fundamentals/getting-set-up.md)
 * [📝 Community Settings](fundamentals/settings.md)
 * [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
-* [🕸️ Connecting Platforms - in progress](fundamentals/connecting-platforms-in-progress.md)
-* [Setting up Modules - in progress](fundamentals/setting-up-modules-in-progress.md)
+* [🕸️ Connecting Platforms](fundamentals/connecting-platforms.md)
+* [Setting up HiveMind](fundamentals/setting-up-hivemind.md)
 
 ## 📊 Features
 
