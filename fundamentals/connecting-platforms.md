@@ -12,6 +12,10 @@ To set up a module you always follow this flow
 3. **Connect** the chosen platform
 4. **Manage access** to the platform
 
+{% hint style="info" %}
+When you connect a platform you make it _possible_ for other modules to pull data from these platforms. But you still need to set up these modules and tell them exactly what data to pull.&#x20;
+{% endhint %}
+
 
 
 ### Add a platform to your community
