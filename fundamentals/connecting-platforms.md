@@ -3,14 +3,14 @@
 You can toggle on different modules that work on top of your data TogetherCrew is ingesting. For each module you have a choice of different platforms. Remember
 
 * A **platform**  is any tool that you use. For example: Discord, Notion, Discourse, Github.
-* A **module** is a "widget" that is offered as part of TogetherCrew For example: HiveMind, reputationNFT
+* A **module** is a "widget" that is offered as part of TogetherCrew For example: [HiveMind](setting-up-hivemind.md), reputationNFT
 
 To set up a module you always follow this flow
 
 1. Go to **Community Settings**
 2. **Select** the chosen platform
 3. **Connect** the chosen platform
-4. **Manage access** to the platform
+4. **Manage the access** a **module** should have to the **platform**
 
 {% hint style="info" %}
 When you connect a platform you make it _possible_ for other modules to pull data from these platforms. But you still need to set up these modules and tell them exactly what data to pull.&#x20;
@@ -137,22 +137,6 @@ Use this to manage the access a module has to the platforms you connected to you
 
 HiveMind helps members get quick answers to their questions, and supports knowledge management in communities. You have to specify the settings for each platform.&#x20;
 
-**Discord**
-
-* For Discord you need to specify the channels HiveMind uses. HiveMind needs to know what your community talks about (**learning**) and where it can post answers (**answering**).
-* Under **Learnings** you select the channels HiveMind uses to build knowledge about your community
-* Under **Answering** you select the channels in which users can ask HiveMind questions. The slash command `/question` will only work in those channels
-
-**GDrive**
-
-* For Google you have to add the ids of the Google Drives, Folders or Files, HiveMind should have access to.
-
-**GitHub**
-
-
-
-**Notion**
-
-* For Notion you have to add the Page ids and DAtabase ids
+[**Setting up HiveMind**](setting-up-hivemind.md) explains how to set up different platforms for the HiveMind module
 
 </details>
