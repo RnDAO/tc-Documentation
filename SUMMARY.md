@@ -17,7 +17,7 @@
 * [📝 Community Settings](fundamentals/settings.md)
 * [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
 * [🕸️ Connecting Platforms](fundamentals/connecting-platforms.md)
-* [Setting up HiveMind](fundamentals/setting-up-hivemind.md)
+* [🎒 Setting up HiveMind](fundamentals/setting-up-hivemind.md)
 
 ## 📊 Features
 

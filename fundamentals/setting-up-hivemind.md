@@ -1,24 +1,22 @@
-# Setting up HiveMind
+# 🎒 Setting up HiveMind
 
-## HiveMind
-
-HiveMind is your community's personal intern, never tired or grumpy helping you out. Ask it to give you the main point of a conversation, help you prepare proposals and make it easier for you and your members to stay up to date on conversations.
+HiveMind is your community's personal intern, never tired or grumpy helping you out. Ask it to give you the main point of a conversation, help you prepare proposals and make it easier for you and your members to stay up to date on conversations. Watch the video below to learn how it works and how to set it up.
 
 {% hint style="warning" %}
 When you add a new platform, give HiveMind 24 hours to process new data sources.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Hivemind setting UI june 2024.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/HOh74DbF9a4?si=cNt9Qz1KaGXk8Yrv" %}
+Demo video
+{% endembed %}
 
-<details>
 
-<summary>Discord</summary>
 
-![](<../.gitbook/assets/hivemind - discord>)
+### Integrating Discord with HiveMind
 
 _HiveMind needs to know what conversations (aka channels) it can use to **learn** about your community and where it is allowed to answer questions._
 
-* **Select** Discord in the row of platforms.
+* **Select** Discord in the row of platforms at the top.
 * In the Learning panel (left side)
   * **Select** the starting date. This marks of far back HiveMind can go to learn about your community. You can not select a date further than 3 months back.&#x20;
   * **Select** which channels HiveMind can use to build knowledge about your community. TogetherCrew needs **read** access to those channels.
@@ -26,11 +24,11 @@ _HiveMind needs to know what conversations (aka channels) it can use to **learn*
 * In the **Answering** plane (right side) you can select in which channels HiveMind can answer questions. The HiveMind command (`/question`) will only work in the channels that you have selected. TogetherCrew needs **write** access to those channels.&#x20;
   * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](permission-settings-for-discord.md) how to do it.
 
-</details>
+<figure><img src="../.gitbook/assets/hivemind - discord" alt=""><figcaption></figcaption></figure>
 
 <details>
 
-<summary>Google Drive</summary>
+<summary>Google Drive - not yet available</summary>
 
 ![](<../.gitbook/assets/hivemind - google drive>)
 
@@ -47,7 +45,7 @@ _HiveMind will know the content and metadata about your files._
 
 <details>
 
-<summary>Notion</summary>
+<summary>Notion - not yet available</summary>
 
 ![](<../.gitbook/assets/Hivemind - notion.png>)
 
@@ -69,7 +67,7 @@ To connect the Notion platform to the HiveMind module you need to add the specif
 
 <details>
 
-<summary>MediaWiki</summary>
+<summary>MediaWiki - not yet available</summary>
 
 * You need to add the individual pages you want HiveMind to have access to. Go to your url and **add** the slug (word after the final backslash `/`) in the field page id.
 
