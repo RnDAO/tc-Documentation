@@ -1,6 +1,6 @@
-# 🎒 Setting up HiveMind
+# 🎒 Setting up the AI assistant
 
-HiveMind is your community's personal intern, never tired or grumpy helping you out. Ask it to give you the main point of a conversation, help you prepare proposals and make it easier for you and your members to stay up to date on conversations. Watch the video below to learn how it works and how to set it up.
+The AI assistant is your community's personal intern, never tired or grumpy helping you out. Members can ask it simple questions about your product, it can summarize key points of a conversation. You can also use it to help you prepare proposals and it will make it easier for you and your members to stay up to date on conversations. Watch the video below to learn how it works and how to set it up.
 
 {% hint style="warning" %}
 When you add a new platform, give HiveMind 24 hours to process new data sources.
@@ -12,9 +12,9 @@ Demo video
 
 
 
-### Integrating Discord with HiveMind
+### Integrating Discord with the AI assistant
 
-_HiveMind needs to know what conversations (aka channels) it can use to **learn** about your community and where it is allowed to answer questions._
+_The AI assistant needs to know what conversations (aka channels) it can use to **learn** about your community and where it is allowed to answer questions._
 
 * **Select** Discord in the row of platforms at the top.
 * In the Learning panel (left side)
