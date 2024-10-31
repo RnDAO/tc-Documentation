@@ -1,7 +1,8 @@
 ---
 description: >-
-  With Smart Announcements you can schedule announcement in a couple of steps.
-  Make sure you have the right permissions.
+  With Smart Announcements you can reach your members easier by schedule public
+  or private messages in a couple of steps. Make sure you have the right
+  permissions.
 ---
 
 # 📆 Smart Announcements

@@ -25,3 +25,4 @@
 * [👥 Community Engagement](features/explainer-engaged-members.md)
 * [🍕 Community Health](features/explainer-fragmentation.md)
 * [📆 Smart Announcements](features/smart-announcements.md)
+* [AI Assistant](features/ai-assistant.md)
