@@ -1,4 +1,4 @@
-# AI Assistant
+# 🤖 AI Assistant
 
 The AI assistant is your community's personal intern, never tired or grumpy helping you out. Members can ask it simple questions about your product, it can summarize key points of a conversation. You can also use it to help you prepare proposals and it will make it easier for you and your members to stay up to date on conversations. Watch the video below to learn how it works and how to set it up.
 
