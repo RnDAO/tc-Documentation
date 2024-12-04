@@ -85,11 +85,11 @@ If you have different permission settings for category and server, then the serv
 
 ### FAQ
 
-**Can I post the same announcement in Discord and Telegram?**As February 2024, our Telegram integration isn't ready. You can only post announcements in Discord.
+**Can I post the same announcement in Discord and Telegram?**&#x41;s February 2024, our Telegram integration isn't ready. You can only post announcements in Discord.
 
 **Can I post an announcement in several channels?** Yes, you can select as many channels as you want.
 
-**We have weekly community calls. Can I set a recurrent announcement?**Right now you'll have to create each announcement separately.
+**We have weekly community calls. Can I set a recurrent announcement?**&#x52;ight now you'll have to create each announcement separately.
 
 **I want to send a message to everyone who joined this week. How can I do that?** You'll have to give everyone a role (e.g., cohort 8). Then you can send a private announcement to everyone with the role "cohort 8".&#x20;
 

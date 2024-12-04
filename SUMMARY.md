@@ -16,7 +16,7 @@
 * [🛠️ Getting set up](fundamentals/getting-set-up.md)
 * [📝 Community Settings](fundamentals/settings.md)
 * [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
-* [🕸️ Connecting Platforms](fundamentals/connecting-platforms.md)
+* [🕸️ Connecting other tools](fundamentals/connecting-other-tools.md)
 * [🎒 Setting up the AI assistant](fundamentals/setting-up-the-ai-assistant.md)
 
 ## 📊 Features
@@ -26,3 +26,4 @@
 * [🍕 Community Health](features/explainer-fragmentation.md)
 * [📆 Smart Announcements](features/smart-announcements.md)
 * [🤖 AI Assistant](features/ai-assistant.md)
+* [🎆 Reputation](features/reputation.md)

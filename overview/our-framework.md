@@ -15,7 +15,7 @@ We don't think a community is a collection of people. We also don't think it's a
 ### When is a DAO's community healthy?
 
 {% hint style="info" %}
-**A DAO's community is considered healthy **_**in the moment**_** when it contributes (or at least does not destabilise) its nested systems and itself,**
+**A DAO's community is considered healthy&#x20;**_**in the moment**_**&#x20;when it contributes (or at least does not destabilise) its nested systems and itself,**
 {% endhint %}
 
 This means it:
