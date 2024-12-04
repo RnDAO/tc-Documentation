@@ -1,5 +1,7 @@
 # 🎆 Reputation
 
+**Launch date: December 9th, 2024**
+
 With our reputation module you can turn **offchain activity into onchain points**. Use these points to reward your members bwith voting rights, alpha access to content and merch, or specific features related to your dapp or protocol. Once minted, the points will update daily.&#x20;
 
 Read the instructions for how to [activate the module](reputation.md#community-manager) and for [members to mint their score](reputation.md#community-members).
