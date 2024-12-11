@@ -1,7 +1,5 @@
 # 🎆 Reputation
 
-**Launch date: December 9th, 2024**
-
 With our reputation module you can turn **offchain activity into onchain points**. Use these points to reward your members bwith voting rights, alpha access to content and merch, or specific features related to your dapp or protocol. Once minted, the points will update daily.&#x20;
 
 Read the instructions for how to [activate the module](reputation.md#community-manager) and for [members to mint their score](reputation.md#community-members).
@@ -43,10 +41,15 @@ If you do not see your community, reach out to your community manager. They need
 {% endhint %}
 
 3. Go to **Reputation Score** and **connect** your wallet. Your reputation score will be minted to this wallet.&#x20;
-4. Once you have connected your wallet to the TogetherCrew app, you have to link your wallet with your user handle. This is done by attesting that you are the owner of the specific handle. This step is done in LogID, a platform to create secure, onchain attestations of user credentials.&#x20;
 
 {% hint style="info" %}
-The user handle you choose will be used to calculate your reputation score.
+Your source of truth is your wallet. We will use this wallet as the main entity.
+{% endhint %}
+
+3. Once you have connected your wallet to the TogetherCrew app, you have to link your wallet with your user handle. This is done by attesting that you are the owner of the specific handle. This step is done in LogID, a platform to create secure, onchain attestations of user credentials.&#x20;
+
+{% hint style="info" %}
+The user handle you choose will be used to calculate your reputation score and will be linked to the wallet you used when signing in to app.togethercrew.com
 {% endhint %}
 
 5. Select **Register and Grant permission**_._ You will be directed to the logid app.&#x20;
@@ -59,7 +62,7 @@ You need a tiny bit of ETH in your wallet to pay the transaction (less than 0.00
 
 
 5. First connect your username (e.g., Discord, Discourse, Telegram etc)  by selecting **Connect**. This will start the attestation flow. The attestation flow has three steps:
-   1. Authenticate: Sign in with your username (e.g., Discord, Discourse, Telegram etc)
+   1. Authenticate: Sign in with your username (e.g., Discord, Discourse, Telegram etc). This should be the same username than you used in app.togethercrew.com
    2. Attest: Connect your username to your wallet. In this step you make an online attestation that you own both of them.&#x20;
    3. Sign: In this final step you sign a message to confirm your onchain attestation. You will see a green notification at the bottom of your screen and see that the Connect button changed to Revoke.&#x20;
 6. Repeat step 7 for as many usernames as you want to link to your wallet.
@@ -71,7 +74,15 @@ You need a tiny bit of ETH in your wallet to pay the transaction (less than 0.00
 
 ### Smart contract
 
-add smart contract address
+**Schema**: [https://arbitrum.easscan.org/schema/view/0x6b5b50f2de8b387664838bd3c751e21f6b9aac7cf4bf5b2fb86e760b89a8a22d](https://arbitrum.easscan.org/schema/view/0x6b5b50f2de8b387664838bd3c751e21f6b9aac7cf4bf5b2fb86e760b89a8a22d)&#x20;
 
+**AccessManager**: [https://arbiscan.io/address/0x1991D39FAF168EC48BaF10bbec8A8b6751BfC1E2#code](https://arbiscan.io/address/0x1991D39FAF168EC48BaF10bbec8A8b6751BfC1E2#code)&#x20;
 
+**OIDResolver**: [https://arbiscan.io/address/0x4B015ed3A1C7244544e00aC947077593D6789F74#code](https://arbiscan.io/address/0x4B015ed3A1C7244544e00aC947077593D6789F74#code)&#x20;
+
+**ApplicationManager**: [https://arbiscan.io/address/0x8006cCF2b3240bB716c86E5a16A9dD9b32eC5c53#code](https://arbiscan.io/address/0x8006cCF2b3240bB716c86E5a16A9dD9b32eC5c53#code)&#x20;
+
+**PermissionManager:** [https://arbiscan.io/address/0x9a85Bb58CFb60ABd205c4Af7039fF73C86b41bd8#code](https://arbiscan.io/address/0x9a85Bb58CFb60ABd205c4Af7039fF73C86b41bd8#code)&#x20;
+
+**Engagement Score:** [https://arbiscan.io/address/0x89aDc2E7561914884c47a2F5447ac5052e6770b1#code](https://arbiscan.io/address/0x89aDc2E7561914884c47a2F5447ac5052e6770b1#code)&#x20;
 
