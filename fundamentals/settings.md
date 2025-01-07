@@ -60,13 +60,13 @@ Under **change your imported channels** you can select or deselect the channels 
 
 <img src="../.gitbook/assets/Screen Shot 2023-01-31 at 11.36.57.png" alt="" data-size="original">
 
-Do you have role-gated channels? Give the bot permission to access them. Go to your server settings in Discord and add the corresponding roles to the bot. See [getting-set-up.md](getting-set-up.md "mention") for a quick walk-through and [**Permission settings for Discord**](adding-platforms/permission-settings-for-discord.md) for more detailed info.
+Do you have role-gated channels? Give the bot permission to access them. Go to your server settings in Discord and add the corresponding roles to the bot. See [getting-set-up.md](getting-set-up.md "mention") for a quick walk-through and [**Permission settings for Discord**](adding-platforms/discord.md) for more detailed info.
 
 
 
 
 
-See [permission settings](adding-platforms/permission-settings-for-discord.md) for more information.&#x20;
+See [permission settings](adding-platforms/discord.md) for more information.&#x20;
 
 </details>
 

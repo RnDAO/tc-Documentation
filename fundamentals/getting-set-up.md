@@ -77,7 +77,7 @@ By default the bot does not have access to gated channels. Gated channels are th
 </details>
 
 {% hint style="warning" %}
-If you can't see all your channels, go to Discord user management and give the bot access to these channels. Read [Permission settings for Discord](adding-platforms/permission-settings-for-discord.md) for step-by-step instructions.&#x20;
+If you can't see all your channels, go to Discord user management and give the bot access to these channels. Read [Permission settings for Discord](adding-platforms/discord.md) for step-by-step instructions.&#x20;
 {% endhint %}
 
 <details>

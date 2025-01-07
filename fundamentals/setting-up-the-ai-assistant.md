@@ -20,9 +20,9 @@ _The AI assistant needs to know what conversations (aka channels) it can use to 
 * In the Learning panel (left side)
   * **Select** the starting date. This marks of far back HiveMind can go to learn about your community. You can not select a date further than 3 months back.&#x20;
   * **Select** which channels HiveMind can use to build knowledge about your community. TogetherCrew needs **read** access to those channels.
-    * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/permission-settings-for-discord.md) how to do it.
+    * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/discord.md) how to do it.
 * In the **Answering** plane (right side) you can select in which channels HiveMind can answer questions. The HiveMind command (`/question`) will only work in the channels that you have selected. TogetherCrew needs **write** access to those channels.&#x20;
-  * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/permission-settings-for-discord.md) how to do it.
+  * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/discord.md) how to do it.
 
 <figure><img src="../.gitbook/assets/hivemind - discord" alt=""><figcaption></figcaption></figure>
 
