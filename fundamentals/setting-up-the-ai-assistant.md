@@ -20,9 +20,9 @@ _The AI assistant needs to know what conversations (aka channels) it can use to 
 * In the Learning panel (left side)
   * **Select** the starting date. This marks of far back HiveMind can go to learn about your community. You can not select a date further than 3 months back.&#x20;
   * **Select** which channels HiveMind can use to build knowledge about your community. TogetherCrew needs **read** access to those channels.
-    * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](permission-settings-for-discord.md) how to do it.
+    * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/permission-settings-for-discord.md) how to do it.
 * In the **Answering** plane (right side) you can select in which channels HiveMind can answer questions. The HiveMind command (`/question`) will only work in the channels that you have selected. TogetherCrew needs **write** access to those channels.&#x20;
-  * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](permission-settings-for-discord.md) how to do it.
+  * If you can not select the toggle for a specific channel, this means your permissions aren't set properly. Read [here](adding-platforms/permission-settings-for-discord.md) how to do it.
 
 <figure><img src="../.gitbook/assets/hivemind - discord" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ _HiveMind will know the content and metadata about your files._
 * **Select** GDrive in the top row of platforms.
 * Add the shared drive, folder or page ids. You can not add the connected account's personal drive, only shared drives. You can add folders and files of the connected account.
 * You'll find the id of a shared drive, folder, or file in its url.
-  * To add **folder ids, i**n a new tab, **open** your Google Drive and go to the folder you want HiveMind to have access to. Now in the address bar, **copy** everything after the last slash. For example the folder TogetherCrew has the url [`https://drive.google.com/drive/folders/1-4y1kMFOyu244mmhVdKym_YGAWKB4c1G`](https://drive.google.com/drive/folders/1-4y1kMFOyu244mmhVdKym\_YGAWKB4c1G). I'm adding `1-4y1kMFOyu244mmhVdKym_YGAWKB4c1G` into the form field **folder id**. Press enter after you pasted the id.
+  * To add **folder ids, i**n a new tab, **open** your Google Drive and go to the folder you want HiveMind to have access to. Now in the address bar, **copy** everything after the last slash. For example the folder TogetherCrew has the url [`https://drive.google.com/drive/folders/1-4y1kMFOyu244mmhVdKym_YGAWKB4c1G`](https://drive.google.com/drive/folders/1-4y1kMFOyu244mmhVdKym_YGAWKB4c1G). I'm adding `1-4y1kMFOyu244mmhVdKym_YGAWKB4c1G` into the form field **folder id**. Press enter after you pasted the id.
   * To add **Files ids**, follow the same steps and add the id in the form field **Files ids**. The id is the string after `/d/` and the next slash `/.` Press enter after you pasted the id.
   * To add shared drive, follow the same steps. The id is the string after `/folders/`. Press enter after you pasted the id.
 

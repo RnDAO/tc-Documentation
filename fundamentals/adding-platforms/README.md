@@ -1,9 +1,9 @@
-# 🕸️ Connecting Platforms
+# 🕸️ Adding platforms
 
 You can toggle on different modules that work on top of your data TogetherCrew is ingesting. For each module you have a choice of different platforms. Remember
 
 * A **platform**  is any tool that you use. For example: Discord, Notion, Discourse, Github.
-* A **module** is a "widget" that is offered as part of TogetherCrew For example: [HiveMind](setting-up-the-ai-assistant.md), reputationNFT
+* A **module** is a "widget" that is offered as part of TogetherCrew For example: [HiveMind](../setting-up-the-ai-assistant.md), reputationNFT
 
 To set up a module you always follow this flow
 
@@ -137,6 +137,6 @@ Use this to manage the access a module has to the platforms you connected to you
 
 HiveMind helps members get quick answers to their questions, and supports knowledge management in communities. You have to specify the settings for each platform.&#x20;
 
-[**Setting up HiveMind**](setting-up-the-ai-assistant.md) explains how to set up different platforms for the HiveMind module
+[**Setting up HiveMind**](../setting-up-the-ai-assistant.md) explains how to set up different platforms for the HiveMind module
 
 </details>

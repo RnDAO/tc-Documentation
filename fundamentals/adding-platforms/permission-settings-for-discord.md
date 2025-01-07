@@ -1,4 +1,8 @@
-# 🚔 Permission settings for Discord
+---
+icon: discord
+---
+
+# Permission settings for Discord
 
 You can set **write** access to TogetherCrew at 3 levels, from broad (server) to fine-grained (channel)
 
@@ -33,6 +37,6 @@ If you have different permission settings for category and server, the server se
 If you see that the bot does not have access to a channel, check that **member** TogetherCrew has been given the right access. Setting channel permissions using the TogetherCrew **role** will **not** work.
 
 \
-If you are experiencing issues at this step, [contact us](../overview/support.md) or [book a call](https://cal.com/katerina-bohle-carbonell-wvtw5a/tconboarding?date=2024-04-23\&month=2024-04) with Katerina.
+If you are experiencing issues at this step, [contact us](../../overview/support.md) or [book a call](https://cal.com/katerina-bohle-carbonell-wvtw5a/tconboarding?date=2024-04-23\&month=2024-04) with Katerina.
 {% endhint %}
 

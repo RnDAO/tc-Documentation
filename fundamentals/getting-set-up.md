@@ -26,15 +26,15 @@ If you are the first one to create an account on TogetherCrew for your community
 
 <img src="https://d16ev9qffqt5qm.cloudfront.net/?s3_key=clmhlsdfv24d8yf19yqi9iu2d/SVr2EGkbr4sJ_EDTB_g98.jpg&#x26;x=1500&#x26;y=1443&#x26;fill=9900ef&#x26;color=9900ef" alt="5 After that, click on the element." data-size="original">
 
-![6 Next, click on the element.](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/AP1a3FVXN7g5yUS-Q4lyU.jpg\&x=1301\&y=678\&fill=9900ef\&color=9900ef)
+![6 Next, click on the element.](https://d16ev9qffqt5qm.cloudfront.net/?s3_key=clmhlsdfv24d8yf19yqi9iu2d/AP1a3FVXN7g5yUS-Q4lyU.jpg\&x=1301\&y=678\&fill=9900ef\&color=9900ef)
 
 Now you are ready to connect your community. Select **connect your community**.
 
-![8 Click on "Connect your community".](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/EgnMN7kkiX6neYNRI10Cl.jpg\&x=1604\&y=1089\&fill=9900ef\&color=9900ef)
+![8 Click on "Connect your community".](https://d16ev9qffqt5qm.cloudfront.net/?s3_key=clmhlsdfv24d8yf19yqi9iu2d/EgnMN7kkiX6neYNRI10Cl.jpg\&x=1604\&y=1089\&fill=9900ef\&color=9900ef)
 
 On the **community settings** page, select the platform you'd like to add by clicking on **+ Connect**.&#x20;
 
-![9 Click on "Connect".](https://d16ev9qffqt5qm.cloudfront.net/?s3\_key=clmhlsdfv24d8yf19yqi9iu2d/8a1wRBjtGQAK696BQ7LnZ.jpg\&x=560\&y=950\&fill=9900ef\&color=9900ef)
+![9 Click on "Connect".](https://d16ev9qffqt5qm.cloudfront.net/?s3_key=clmhlsdfv24d8yf19yqi9iu2d/8a1wRBjtGQAK696BQ7LnZ.jpg\&x=560\&y=950\&fill=9900ef\&color=9900ef)
 
 Follow the onboarding flow from your select platform.&#x20;
 
@@ -62,19 +62,11 @@ By default the bot does not have access to gated channels. Gated channels are th
 
 * Navigate to the channel you want to import on Discord&#x20;
 
-<!---->
-
-* Go to the settings for that specific channel (select the wheel on the right of the channel name)&#x20;
-
-<!---->
+- Go to the settings for that specific channel (select the wheel on the right of the channel name)&#x20;
 
 * Select **Permissions** (left sidebar), and then in the middle of the screen check **Advanced permissions**&#x20;
 
-<!---->
-
-* Select the plus sign to the right of Roles/Members and under **members** select TogetherCrew bot.&#x20;
-
-<!---->
+- Select the plus sign to the right of Roles/Members and under **members** select TogetherCrew bot.&#x20;
 
 * With the TogetherCrew Bot selected, under Advanced Permissions, make sure that \[View channel] and \[Read message history] are marked as \[✓]&#x20;
 
@@ -85,7 +77,7 @@ By default the bot does not have access to gated channels. Gated channels are th
 </details>
 
 {% hint style="warning" %}
-If you can't see all your channels, go to Discord user management and give the bot access to these channels. Read [Permission settings for Discord](permission-settings-for-discord.md) for step-by-step instructions.&#x20;
+If you can't see all your channels, go to Discord user management and give the bot access to these channels. Read [Permission settings for Discord](adding-platforms/permission-settings-for-discord.md) for step-by-step instructions.&#x20;
 {% endhint %}
 
 <details>

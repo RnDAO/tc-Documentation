@@ -15,8 +15,10 @@
 
 * [🛠️ Getting set up](fundamentals/getting-set-up.md)
 * [📝 Community Settings](fundamentals/settings.md)
-* [🚔 Permission settings for Discord](fundamentals/permission-settings-for-discord.md)
-* [🕸️ Connecting other tools](fundamentals/connecting-other-tools.md)
+* [🕸️ Adding platforms](fundamentals/adding-platforms/README.md)
+  * [Permission settings for Discord](fundamentals/adding-platforms/permission-settings-for-discord.md)
+  * [Telegram](fundamentals/adding-platforms/telegram.md)
+  * [Discourse](fundamentals/adding-platforms/discourse.md)
 * [🎒 Setting up the AI assistant](fundamentals/setting-up-the-ai-assistant.md)
 
 ## 📊 Features
